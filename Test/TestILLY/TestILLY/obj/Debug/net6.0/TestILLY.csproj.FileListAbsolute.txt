@@ -1,0 +1,15 @@
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\bin\Debug\net6.0\TestILLY.exe
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\bin\Debug\net6.0\TestILLY.deps.json
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\bin\Debug\net6.0\TestILLY.runtimeconfig.json
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\bin\Debug\net6.0\TestILLY.dll
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\bin\Debug\net6.0\TestILLY.pdb
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.csproj.AssemblyReference.cache
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.AssemblyInfoInputs.cache
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.AssemblyInfo.cs
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.csproj.CoreCompileInputs.cache
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.dll
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\refint\TestILLY.dll
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.pdb
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\TestILLY.genruntimeconfig.cache
+C:\Users\cr1d3\Desktop\ILLY Sys\Test\TestILLY\TestILLY\obj\Debug\net6.0\ref\TestILLY.dll
